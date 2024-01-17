@@ -1,0 +1,15 @@
+*{
+    font-family: 'Inter', Helvetica, sans-serif;
+}
+
+.main-page-div {
+    width: 300px;
+    padding: 8px;
+    background-color: coral;
+    color: white;
+    border-radius: 8px;
+}
+
+.header{
+    text-align: center;
+}
